@@ -1,2 +1,2 @@
 # Projects
-Continued....
+JavaScript,python, Machine learning
